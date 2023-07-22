@@ -1,14 +1,21 @@
 # JS-Charleston
 
-## npm start
-Runs the app in the development mode.
-Open https://lacalhost:3000 to view it in your browser.
+Travel Website
 
-The page will reload when you make changes.\ You may also see any lint errors in the console.
+## Available Scripts:
+This project is JavaScript
+https://jelly-mammoth-family.glitch.me/![image](https://github.com/howkat23/JS-Charleston/assets/111094904/5d88f395-184d-46c4-8f46-3415f99e22df)
 
-## npm test
-Launches the test.
+index.html; index.js; style.css
 
-### npm run build
-Builds the app for production to the 'build' folder.
-It correctly bundles React in production mode and optimizes the form for the best performance.
+### Usage:
+
+Use index.js: next.addEventListener
+              back.addEventListener
+
+
+### Add Animation
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+
+
